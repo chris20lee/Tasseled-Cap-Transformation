@@ -1,6 +1,6 @@
 # Tasseled-Cap-Transformation
 
-This was term project for my GEG3105 B Remote Sensing course.
+This was a term project for my GEG3105 B Remote Sensing course.
 
 Tasseled Cap Transformation is a conversion of the original bands of an image into a new set of bands that are useful for vegetation mapping. A tasseled-cap transform is performed by taking “linear combinations” of the original image bands, similar in concept to principal components analysis. The output from this process has important properties for vegetation mapping, thus it is the task undertaken in this term project, to create the Tasseled Cap Transformations in Python.
 
