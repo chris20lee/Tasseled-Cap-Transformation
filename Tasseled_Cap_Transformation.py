@@ -1,24 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name: Term Project
-# Author: Christopher Lee
-# Student Number: 7292360
-# Institution: University of Ottawa
-# Description: This program allows the user to input landsat 7 or landsat 8
-#               bands, and the program outputs the brightness, wetness, and
-#               greenness Tasseled Cap Transformation images.
-#-------------------------------------------------------------------------------
-
-# EXAMPLE TEST FILES
-# (Note these locations may change depending on where you save the data)
-# E:/Term Project/Input Files/LC80160282017001LGN00_MTL.txt
-# E:/Term Project/Input Files/LC80160282017001LGN00_B2.TIF
-# E:/Term Project/Input Files/LC80160282017001LGN00_B3.TIF
-# E:/Term Project/Input Files/LC80160282017001LGN00_B4.TIF
-# E:/Term Project/Input Files/LC80160282017001LGN00_B5.TIF
-# E:/Term Project/Input Files/LC80160282017001LGN00_B6.TIF
-# E:/Term Project/Input Files/LC80160282017001LGN00_B7.TIF
-
-
 # IMPORT STATEMENTS
 import os
 import sys
